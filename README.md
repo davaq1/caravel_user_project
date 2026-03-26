@@ -8,3 +8,5 @@
 Refer to [README](docs/source/index.md) for project documentation.
 
 SoC accelerator implementation tapeout project
+
+Update 1: Succesful Example GDS2 run
