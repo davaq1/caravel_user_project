@@ -5,6 +5,6 @@
 | :exclamation: Important Note            |
 |-----------------------------------------|
 
-## Please fill in your project documentation in this README.md file 
+Refer to [README](docs/source/index.md) for project documentation.
 
-Refer to [README](docs/source/index.md) for this sample project documentation.
+SoC accelerator implementation tapeout project
